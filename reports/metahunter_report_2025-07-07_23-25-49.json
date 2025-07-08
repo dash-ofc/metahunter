@@ -1,0 +1,90 @@
+[
+    {
+        "file": "/home/kali/Desktop/testfiles/qhv-info.pdf",
+        "author": "Unknown",
+        "title": "Unknown",
+        "creator": "Unknown",
+        "producer": "mbt PDF assembleur version 1.0.28",
+        "created": "Unknown"
+    },
+    {
+        "file": "/home/kali/Desktop/testfiles/qtm-info.pdf",
+        "author": "Unknown",
+        "title": "Unknown",
+        "creator": "Unknown",
+        "producer": "mbt PDF assembleur version 1.0.28",
+        "created": "Unknown"
+    },
+    {
+        "file": "/home/kali/Desktop/testfiles/qcs-info.pdf",
+        "author": "Unknown",
+        "title": "Unknown",
+        "creator": "Unknown",
+        "producer": "mbt PDF assembleur version 1.0.28",
+        "created": "Unknown"
+    },
+    {
+        "file": "/home/kali/Desktop/testfiles/qpl-info.pdf",
+        "author": "Unknown",
+        "title": "Unknown",
+        "creator": "TeX",
+        "producer": "pdfTeX-1.40.11",
+        "created": "2018-05-11T14:21:59+02:00"
+    },
+    {
+        "file": "/home/kali/Desktop/testfiles/qag-info.pdf",
+        "author": "Unknown",
+        "title": "Unknown",
+        "creator": "TeX",
+        "producer": "pdfTeX-1.40.11",
+        "created": "2018-05-11T14:20:54+02:00"
+    },
+    {
+        "file": "/home/kali/Desktop/testfiles/qzc-info.pdf",
+        "author": "Unknown",
+        "title": "Unknown",
+        "creator": " XeTeX output 2009.09.21:0949",
+        "producer": "xdvipdfmx (0.7.5)",
+        "created": "2009-09-21T09:49:37+02:00"
+    },
+    {
+        "file": "/home/kali/Desktop/testfiles/lm-info.pdf",
+        "author": "Unknown",
+        "title": "Unknown",
+        "creator": " XeTeX output 2009.10.08:1108",
+        "producer": "xdvipdfmx (0.7.5)",
+        "created": "2009-10-08T11:08:29+02:00"
+    },
+    {
+        "file": "/home/kali/Desktop/testfiles/shared-mime-info-spec.pdf",
+        "author": "Unknown",
+        "title": "Unknown",
+        "creator": "LaTeX with hyperref",
+        "producer": "pdfTeX-1.40.26",
+        "created": "2024-10-05T09:55:41+00:00"
+    },
+    {
+        "file": "/home/kali/Desktop/testfiles/qcr-info.pdf",
+        "author": "Unknown",
+        "title": "Unknown",
+        "creator": "Unknown",
+        "producer": "mbt PDF assembleur version 1.0.28",
+        "created": "Unknown"
+    },
+    {
+        "file": "/home/kali/Desktop/testfiles/preview.pdf",
+        "author": "David Kastrup",
+        "title": "The preview Package for LaTeX Version 13.2",
+        "creator": "LaTeX with hyperref",
+        "producer": "pdfTeX-1.40.25",
+        "created": "2023-11-20T22:59:01+00:00"
+    },
+    {
+        "file": "/home/kali/Desktop/testfiles/qbk-info.pdf",
+        "author": "Unknown",
+        "title": "Unknown",
+        "creator": "Unknown",
+        "producer": "mbt PDF assembleur version 1.0.28",
+        "created": "Unknown"
+    }
+]
